@@ -4,8 +4,9 @@
 				<div class="section-head text-center">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h2 class="heading">About <span>AppsLand</span></h2>
-							<p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+							<h2 class="heading">Notre <span>solution Attendis</span></h2>
+							<p>Gérez vos files d'attente en toute simplicité avec Attendis.</p>
+							<p>Notre application optimise le temps d'attente, réduit l'encombrement dans vos agences et améliore la réactivité de vos équipes</p>
 						</div>
 					</div>
 				</div><!-- .section-head -->
@@ -19,10 +20,15 @@
 					</div><!-- .col -->
 					<div class="col-md-6">
 						<div class="txt-entry">
-							<h3>Take a Look Around our App</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
-							<a href="#" class="button">Download</a>
+							<h3>Moins d'attente, plus de fluidité.</h3>
+							<p>Attendis est une solution intélligente de gestion des files d'attentes en agence.</p>
+							<p>Elle permet de fluidifier le parcours client, de réduire les temps d'attente et de mieux répartir les ressources internes.</p>
+							<p>Grâce à une interface simple et efficace, vous améliorerez la satisfaction client tout en renforcant votre image de marque.</p>
+							<p>Offrez à vos visiteurs une expérience fluide, organisée et moderne.</p>
+							<p>Adopter Attendis, c’est faire le choix d’une solution moderne, efficace et 
+                              centrée sur le client. Transformez l’attente en une expérience positive, 
+                              optimisez vos opérations et renforcez votre image de marque.</p>
+							<a href="#" class="button">Contactez-nous</a>
 						</div>
 					</div><!-- .col -->
 				</div><!-- .row -->

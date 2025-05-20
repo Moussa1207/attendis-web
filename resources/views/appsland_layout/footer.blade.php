@@ -4,13 +4,13 @@
 				<div class="row text-center">
 					<div class="col-md-12">
 						<ul class="footer-navigation inline-list">
-							<li><a class="nav-item" href="#home">Home</a></li>
+							<li><a class="nav-item" href="#home">Accueil</a></li>
 							<li><a class="nav-item" href="#about">About</a></li>
-							<li><a class="nav-item" href="#features">Features</a></li>
-							<li><a class="nav-item" href="#screenshots">Screenshots</a></li>
-							<li><a class="nav-item" href="#pricing">Pricing</a></li>
-							<li><a class="nav-item" href="#team">Team</a></li>
-							<li><a class="nav-item" href="#testimonial">Testimonial</a></li>
+							<li><a class="nav-item" href="#features">Fonctionnalités</a></li>
+							<li><a class="nav-item" href="#screenshots">Apercu</a></li>
+							<li><a class="nav-item" href="#pricing">Tarification</a></li>
+							<li><a class="nav-item" href="#team">Equipe</a></li>
+							<li><a class="nav-item" href="#testimonial">Témoignage</a></li>
 							<li><a class="nav-item" href="#contacts">Contacts</a></li>
 						</ul>
 						<ul class="social-list inline-list">
